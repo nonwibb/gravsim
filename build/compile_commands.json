@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/nonwibb/Documents/fluids/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/main.dir/main.cpp.o -c /home/nonwibb/Documents/fluids/main.cpp",
+  "file": "/home/nonwibb/Documents/fluids/main.cpp"
+},
+{
+  "directory": "/home/nonwibb/Documents/fluids/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/main.dir/energies.cpp.o -c /home/nonwibb/Documents/fluids/energies.cpp",
+  "file": "/home/nonwibb/Documents/fluids/energies.cpp"
+},
+{
+  "directory": "/home/nonwibb/Documents/fluids/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/main.dir/forces.cpp.o -c /home/nonwibb/Documents/fluids/forces.cpp",
+  "file": "/home/nonwibb/Documents/fluids/forces.cpp"
+},
+{
+  "directory": "/home/nonwibb/Documents/fluids/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/main.dir/functions.cpp.o -c /home/nonwibb/Documents/fluids/functions.cpp",
+  "file": "/home/nonwibb/Documents/fluids/functions.cpp"
+}
+]
